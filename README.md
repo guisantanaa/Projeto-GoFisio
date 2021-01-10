@@ -2,7 +2,7 @@
 
 <h1>Apresentação do projeto</h1>
 
-<img src="../../assets/gofisio.png" />
+<img src="/assets/gofisio.png" />
 
 <p>Projeto ainda em desenvolvimento</p>
 
