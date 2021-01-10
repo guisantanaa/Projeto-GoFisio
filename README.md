@@ -1,5 +1,9 @@
 <h1>Projeto-GoFisio</h1>
 
+<h1>Apresentação do projeto</h1>
+
+<img src="../../assets/gofisio.png" />
+
 <p>Projeto ainda em desenvolvimento</p>
 
 <h1>Como utilizar esse projeto ?</h1>
