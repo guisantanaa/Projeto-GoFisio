@@ -4,7 +4,13 @@
 
 <img src="src/assets/gofisio.png" />
 
+<h1>Sobre o projeto</h1>
+<p>Esse é o GoFisio uma plataforma web criada para usuários agendar serviços dentro da plataforma, essa aplicação é somente para
+os usuários que prestam serviços ou seja os fisioteraupetas. Para os usuários que querem contratar esses seviços será utilizada outra versão
+que é a mobile que também está em desenvolvimento.</p>
+
 <p>Projeto ainda em desenvolvimento</p>
+
 
 <h1>Como utilizar esse projeto ?</h1>
 
