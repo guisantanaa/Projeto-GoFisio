@@ -10,6 +10,7 @@ os usuários que prestam serviços ou seja os fisioteraupetas. Para os usuários
 que é a mobile Você pode visualizar o repositório desta aplicação clicando nesse <a href="https://github.com/guisantanaa/GoFisio-mobile">link</a>.</p>
 
 <h1>Tecnologias Utilizadas</h1>
+<li>Javascript</li>
 <li>Typescript</li>
 <li>ReactJS</li>
 
