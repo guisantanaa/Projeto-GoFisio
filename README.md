@@ -7,7 +7,7 @@
 <h1>Sobre o projeto</h1>
 <p>Esse é o GoFisio uma plataforma web criada para usuários agendar serviços dentro da plataforma, essa aplicação é somente para
 os usuários que prestam serviços ou seja os fisioteraupetas. Para os usuários que querem contratar esses seviços será utilizada outra versão
-que é a mobile <a>https://github.com/guisantanaa/GoFisio-mobile</a>.</p>
+que é a mobile Você pode visualizar o repositório desta aplicação clicando nesse <a href="https://github.com/guisantanaa/GoFisio-mobile">link</a>.</p>
 
 <h1>Tecnologias Utilizadas</h1>
 <li>Typescript</li>
