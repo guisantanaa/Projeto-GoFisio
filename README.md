@@ -9,7 +9,9 @@
 os usuários que prestam serviços ou seja os fisioteraupetas. Para os usuários que querem contratar esses seviços será utilizada outra versão
 que é a mobile que também está em desenvolvimento.</p>
 
-<p>Projeto ainda em desenvolvimento</p>
+<h1>Tecnologias Utilizadas</h1>
+<li>Typescript</li>
+<li>ReactJS</li>
 
 
 <h1>Como utilizar esse projeto ?</h1>
