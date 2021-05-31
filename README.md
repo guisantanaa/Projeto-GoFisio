@@ -1,23 +1,43 @@
-<h1>Projeto-GoFisio</h1>
-
-<h1>Apresentação do projeto</h1>
+## Apresentação do projeto
 
 <img src="src/assets/gofisio.png" />
 
-<h1>Sobre o projeto</h1>
-<p>Esse é o GoFisio uma plataforma web criada para usuários agendar serviços dentro da plataforma, essa aplicação é somente para
-os usuários que prestam serviços ou seja os fisioteraupetas. Para os usuários que querem contratar esses seviços será utilizada outra versão
-que é a mobile Você pode visualizar o repositório desta aplicação clicando nesse <a href="https://github.com/guisantanaa/GoFisio-mobile">link</a>.</p>
+## Sobre o projeto
 
-<h1>Tecnologias Utilizadas</h1>
-<li>Javascript</li>
-<li>Typescript</li>
-<li>ReactJS</li>
+Esse é o GoFisio uma plataforma web criada para usuários agendar serviços com profissionais de fisioterapias 
 
+## :rocket: Tecnologias
 
-<h1>Como utilizar esse projeto ?</h1>
+- [React](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
+- [Styled-Components](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-<p>Para utilizar esse projeto na sua maquina, clone esse repósitorio no seu terminal com o comando git clone mas o link desse projeto, depois de clonado der
-um comando yarn para a instalação de todas as dependências necessárias e execute o comando yarn start no terminal e a aplicação será aberta no navegador.
-</p>
-<p>OBS: Esse projeto possui um Back End separado, para utiliza-lo corretamente va em outro repósitorio chamado Relacionamento dos models</p>
+<div id="requisitos">
+
+## :white_check_mark: Requisitos
+
+<p>Antes de executar :checkered_flag:, você precisar ter o [Git](https://git-scm.com) e o [Node](https://nodejs.org/pt-br/) instalados.</p>
+
+</div>
+
+## :checkered_flag: Executando
+
+```bash
+
+# Clone este projeto
+$ git clone https://github.com/guisantanaa/Projeto-GoFisio
+
+# Entre na pasta Projeto-GoFisio
+$ cd Projeto-GoFisio
+$ Execute o comando 'code .' e o projeto sera aberto no Visual Studio Code
+
+# Instale as dependências
+$ yarn
+
+# Inicialize
+$ yarn start
+
+# O servidor irá iniciar em http://localhost:3000
+
+```
